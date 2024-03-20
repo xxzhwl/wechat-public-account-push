@@ -42,5 +42,6 @@ const USER_CONFIG = {
         "horoscope": false,
         "birthdayMessage": true
     }
-}module.exports = USER_CONFIG
+}
+module.exports = USER_CONFIG
 
